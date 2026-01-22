@@ -1,0 +1,21 @@
+Environmental Device API
+.........................................................................
+url: http://192.168.101.40/auto_sys/src/api/industrial_device_api.php?id=31
+
+Methode: GET
+
+response body:
+[{"deviceId":"31","port_no":"1","status":""},{"deviceId":"31","port_no":"2","status":""},{"deviceId":"31","port_no":"3","status":""},{"deviceId":"31","port_no":"4","status":""}]
+
+Industrial device API
+........................................................................
+url: http://192.168.101.40/auto_sys/src/api/environment_device_api.php
+http://localhost/auto_sys/src/api/environment_device_api.php
+
+Methode: POST
+
+request body:
+{"temp":28,"hum":85,"co":20,"gas":2,"device_id":"28"}
+
+response body:
+["updated success fully"]
