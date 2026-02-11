@@ -29,6 +29,6 @@ Communication: Wi-Fi / IoT protocols
 
 Research Potential
 This system not only demonstrates practical IoT automation, but also serves as a foundation for further research in:
-Environmental sensing and monitoring
-Data-driven automation
-Intelligent control systems
+Environmental sensing and monitoring,
+Data-driven automation, and
+Intelligent control systems.
